@@ -4,8 +4,8 @@ A short case study of a loan lending company to identify driving factors (or dri
 
 
 ## Table of Contents
-* [Problem Statement](#Problem Statement)
-* [General Information](#General Information)
+* [Problem Statement](#problem-statement)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)

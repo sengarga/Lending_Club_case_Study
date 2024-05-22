@@ -58,5 +58,4 @@ Issue Month : Loans given to applicants on the months of December , September an
 
 
 ## Contact
-Created by [] - feel free to contact me!
-
+Created by [@sengarga] - feel free to contact me!
